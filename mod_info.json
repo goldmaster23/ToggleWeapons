@@ -5,7 +5,7 @@
     "utility":"true",
 	"version":"1.2.0",
 	"description":"More weapon group controls fixed.\n8 to stop all non-PD\n9 to change linked-alternating\n0 to deselect current group",
-    "gameVersion": "0.96a-RC9", 
+    "gameVersion": "0.95.1a-RC12", 
   	"jars":["jars/ToggleWeaponGroup.jar"],
   	"modPlugin":"data.scripts.plugins.ToggleWeaponsModPlugin"
 }
