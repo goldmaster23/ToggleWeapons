@@ -1,10 +1,14 @@
 TOGGLE WEAPON GROUP FIXED
 
 Issues: 
-- Nexerlin crashes the game
+- Nexerlin crashes the game (solved)
 	- fix: go to Nexerelin\data\config\settings.json and set nex_enableVersionChecker to false
 
 Changelog:
+
+1.2.1
+- fixed version checker (thanks JoeCool)
+
 1.2.0
 - added toggle for stopping non-PD
 

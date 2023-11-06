@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://github.com/goldmaster23/ToggleWeapons/blob/0.95.1a-RC12/toggleWeaponsFixed.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/goldmaster23/ToggleWeapons/0.96a-RC9/toggleWeaponsFixed.version",
 
     "modName":"Toggle Weapon Group Fixed",
 
@@ -17,6 +17,6 @@
     {
         "major":1,
         "minor":2,
-        "patch":0 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+        "patch":1 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
 }
